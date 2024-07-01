@@ -27,5 +27,6 @@ En este proyecto estan las clases y todo pero Ojo no es cuestion de copiar todo 
 Asi que cada que creas un Clase.cs copia nomas desde las variables en caso de que exista y los metodos igualmente.
 
 ## Ojo
-Mira bien el archivo MauiProgram ya que abarca todo la conexion del API y la base de datos Local
+Mira bien el archivo MauiProgram ya que abarca todo la conexion del API y la base de datos Local.
+Rambien revisa bien el App.Xaml.cs es importantisimo esa parte.
 
